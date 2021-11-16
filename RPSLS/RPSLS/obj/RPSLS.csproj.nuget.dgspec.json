@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "\\\\Mac\\Home\\Desktop\\RPSLS-C#\\RPSLS-CSharp\\RPSLS\\RPSLS\\RPSLS.csproj": {}
+    "\\\\Mac\\Home\\Desktop\\RPSLS-CSharp\\RPSLS\\RPSLS\\RPSLS.csproj": {}
   },
   "projects": {
-    "\\\\Mac\\Home\\Desktop\\RPSLS-C#\\RPSLS-CSharp\\RPSLS\\RPSLS\\RPSLS.csproj": {
+    "\\\\Mac\\Home\\Desktop\\RPSLS-CSharp\\RPSLS\\RPSLS\\RPSLS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "\\\\Mac\\Home\\Desktop\\RPSLS-C#\\RPSLS-CSharp\\RPSLS\\RPSLS\\RPSLS.csproj",
+        "projectUniqueName": "\\\\Mac\\Home\\Desktop\\RPSLS-CSharp\\RPSLS\\RPSLS\\RPSLS.csproj",
         "projectName": "RPSLS",
-        "projectPath": "\\\\Mac\\Home\\Desktop\\RPSLS-C#\\RPSLS-CSharp\\RPSLS\\RPSLS\\RPSLS.csproj",
+        "projectPath": "\\\\Mac\\Home\\Desktop\\RPSLS-CSharp\\RPSLS\\RPSLS\\RPSLS.csproj",
         "packagesPath": "C:\\Users\\mylesnlister\\.nuget\\packages\\",
-        "outputPath": "\\\\Mac\\Home\\Desktop\\RPSLS-C#\\RPSLS-CSharp\\RPSLS\\RPSLS\\obj\\",
+        "outputPath": "\\\\Mac\\Home\\Desktop\\RPSLS-CSharp\\RPSLS\\RPSLS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mylesnlister\\AppData\\Roaming\\NuGet\\NuGet.Config",
